@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfsms_vuetify"]=self["webpackChunkfsms_vuetify"]||[]).push([[443],{833:function(n,s,u){u.r(s),u.d(s,{default:function(){return l}});var t=u(3396);const e={class:"about"},a=(0,t._)("h1",null,"This is an about page",-1),r=[a];function f(n,s){return(0,t.wg)(),(0,t.iD)("div",e,r)}var i=u(89);const c={},o=(0,i.Z)(c,[["render",f]]);var l=o}}]);
+//# sourceMappingURL=about.9497a082.js.map

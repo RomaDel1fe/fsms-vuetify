@@ -1,19 +1,17 @@
 <template>
   <v-card>
-    <v-container >
+    <v-container>
       <v-row justify="end">
-        Home
+        Profile
       </v-row>
     </v-container>
   </v-card>
 </template>
 
 <script>
-// @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
-  name: 'HomeView',
+  name: 'ProfileView',
   components: {
     // HelloWorld
   }

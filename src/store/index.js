@@ -1,14 +1,12 @@
-import { createStore } from 'vuex'
+import { createStore } from 'vuex';
+import auth from './modules/auth'; 
+import loading from './modules/loading';
+import screen from './modules/screen';
 
 export default createStore({
-  state: {
-  },
-  getters: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
   modules: {
+    auth,
+    loading,
+    screen
   }
-})
+});
